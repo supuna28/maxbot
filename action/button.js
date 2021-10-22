@@ -87,10 +87,8 @@ before: `*${me}*
 
 *ｓｔａｔｕｓ ｎｏｗ:*
 *clock:* ${time}
-*calender islam:* ${dateIslamic}
-*calender Java:* ${week} ${weton} ${date}
 
-*Github:*\nhttps://github.com/Rizxyu/RIXLE-BOT`.trimStart(),
+*Github:*\supuna.trimStart(),
 type: "*#type*\n",
 after: "\n"
 }
@@ -130,27 +128,9 @@ Kami harap anda senang karena telah menggunakan bot ini😗
 
 
 ===============================
-🗣️: Bang Cara Gunain bot gimana sih
-👤: Menggunakan prefix terus tambah kata menu
-===============================
-🗣️: Bot online berapa jam?
-👤: Bot online 24 jam itupun kalau gak ada masalah
-===============================
-🗣️: Cara bikin sticker gimana sih?
-👤: Reply image terus kasih /menu atau / nya ganti prefixnya yg bisa dipakai bot
-===============================
-🗣️: Rules gunain bot apa aja?
-👤: *Rules menggunakan bot:*
-❌ Jangan telpon atau vc bot
-❌ Jangan bandingkan bot lain
-❌ No spam command
-
-*Ada masalah dengan bot?*
-Hubungi owner atau ${userbot.prefix}report alasan
-@6282328303332
+🗣️: https://chat.whatsapp.com/CLVbzE22JYKBS8QLCRcsX2
 
 *Thx To :*
-- Allah SWT
 - Orang Tua
 -adiwajshing
 - @0
